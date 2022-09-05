@@ -1,0 +1,20 @@
+/* my added font */
+
+@font-face {
+  font-family: 'Calibre';
+  src: url(./Fonts/Calibre-Regular.woff) format('woff');
+  src: url(./Fonts/Calibre-Regular.woff2) format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Calibre';
+  src: url(./Fonts/Calibre-Semibold.woff) format('woff');
+  src: url(./Fonts/Calibre-Semibold.woff2) format('woff2');
+  font-weight: 700;
+  font-style: normal;
+}
+
+
+
